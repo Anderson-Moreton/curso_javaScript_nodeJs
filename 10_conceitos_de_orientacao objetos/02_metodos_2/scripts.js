@@ -7,7 +7,7 @@ const cachorro = {
     console.log("grrrrr");
   },
   setRaca: function(raca) {
-    this.raca = raca; 
+    this.raca = raca;  //this se referência a este objeto.
   },
   getRaca: function() {
     return "A raça é " + this.raca;
