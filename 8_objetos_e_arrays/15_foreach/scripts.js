@@ -1,6 +1,6 @@
-let nomes = ["Anderson", "Maria", "José", "Pedro", "João"];
+let nomes = ["Matheus", "Maria", "José", "Pedro", "João"];
 
-nomes.forEach(nome => { //Itera cada elemento do array
+nomes.forEach(nome => {
   console.log("O nome é " + nome);
 });
 

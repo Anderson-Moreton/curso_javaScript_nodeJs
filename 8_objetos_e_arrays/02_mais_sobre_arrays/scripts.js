@@ -1,5 +1,5 @@
 let arr = [1, 4, 5, 6, 7];
-let nomes = ['Matheus', 'João', 'Aléxia'];
+let nomes = ['Anderson', 'Otávio', 'Priscila'];
 let bool = [true, false, true];
 
 console.log(arr[1]);

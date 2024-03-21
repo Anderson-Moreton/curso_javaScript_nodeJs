@@ -15,3 +15,7 @@ for(let i = 0; i < 10; i++) {
 for(let i = 10; i > 0; i--) {
   console.log("O i é " + i);
 }
+
+for(let i = 0; i <= 50; i+=5) {
+  console.log(i);
+}

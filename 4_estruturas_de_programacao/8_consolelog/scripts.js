@@ -1,5 +1,5 @@
-let idade = 33;
-let nome = "Anderson";
+let idade = 28;
+let nome = "Matheus";
 
 console.log(idade);
 console.log(nome);

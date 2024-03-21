@@ -5,6 +5,6 @@ console.log(nums.slice(4,6));
 
 console.log(nums.slice(2));
 
-console.log(nums.slice(-2)); //decrementa os dois últimos digítos do array
+console.log(nums.slice(-2));
 
 console.log(nums.slice(3,-2));

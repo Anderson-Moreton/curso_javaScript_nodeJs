@@ -12,8 +12,8 @@ switch(nome) {
     break;
 }
 
-// if(nome == "Matheus") {
-//   console.log("O Nome é Matheus");
+// if(nome == "Anderson") {
+//   console.log("O Nome é Anderson");
 // } else {
 //   console.log("O nome não foi encontrado");
 // }

@@ -1,0 +1,1 @@
+console.log("Anderson" - 10); //NaN

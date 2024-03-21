@@ -1,6 +1,6 @@
 let pessoa = {
   nome: "Anderson",
-  idade: 33,
+  idade: 35,
   profissao: "Programador",
 }
 

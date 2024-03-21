@@ -1,8 +1,8 @@
-let nome = " \n   Anderson \n ";
+let nome = " \n   Matheus \n ";
 
-// Olá     Anderson , tudo bem?
+// Olá     Matheus , tudo bem?
 
-let nomeCorrigido = nome.trim(); //Remove tudo que não é string
+let nomeCorrigido = nome.trim();
 
 console.log(nome);
 console.log(nomeCorrigido);

@@ -1,11 +1,11 @@
 let pessoa = {
-  nome: "Matheus"
+  nome: "Anderson"
 }
 
 let pessoa2 = pessoa;
 
 let pessoa3 = {
-  nome: "Matheus"
+  nome: "Amderson"
 }
 
 console.log(pessoa == pessoa2);

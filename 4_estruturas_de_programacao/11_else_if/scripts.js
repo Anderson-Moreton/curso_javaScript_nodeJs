@@ -1,5 +1,5 @@
 let nome = "Anderson";
-let idade = 33;
+let idade = 28;
 
 if(nome != undefined && nome == "Joaquim") {
   console.log("Nome está definido");

@@ -1,4 +1,4 @@
-let nomes = ["Anderson", "Maria", "José"];
+let nomes = ["Matheus", "Maria", "José"];
 
 let elementoRemovido = nomes.pop();
 
