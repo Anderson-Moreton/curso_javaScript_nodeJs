@@ -12,12 +12,12 @@ class Conta {
     }
 }
 
-let conta = new Conta(1000);
+let conta = new Conta(250);
 
-conta.deposito(1000);
-
-console.log(conta.saldo);
-
-conta.saque(500);
+conta.deposito(150);
 
 console.log(conta.saldo);
+
+conta.saque(50);
+
+console.log(conta.saldo)

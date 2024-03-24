@@ -5,11 +5,11 @@ function Cachorro(raca,patas,cor) {
 }
 
 Cachorro.prototype.uivar = function() {
-  console.log("Auuuu");
+  console.log("Auuuuuuuu");
 }
 
 Cachorro.prototype.latir = function() {
-  console.log("AU au");
+  console.log("Au au au au");
 }
 
 let husky = new Cachorro('Husky', 4, 'cinza');

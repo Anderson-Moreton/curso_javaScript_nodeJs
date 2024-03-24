@@ -1,5 +1,5 @@
-let nomes = ["Gabriel", "Brunno", "Thiago", "Anderson", "Jefferson"];
+let names = ["Otávio", "Anderson", "Priscila", "Gabrielle", "Juliete"];
 
-for (let i = 0; i < nomes.length; i++) {
-    console.log(nomes[i]);
+for(let i = 0; i < names.length; i++) {
+    console.log(names[i]);
 }

@@ -1,6 +1,6 @@
 let pessoa = {
-  "nome": "Matheus",
-  "idade": 28
+  "nome": "Anderson",
+  "idade": 35
 }
 
 console.log(pessoa.nome);

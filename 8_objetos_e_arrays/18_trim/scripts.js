@@ -1,6 +1,6 @@
-let nome = " \n   Matheus \n ";
+let nome = " \n   Anderson \n ";
 
-// Olá     Matheus , tudo bem?
+// Olá     Anderson , tudo bem?
 
 let nomeCorrigido = nome.trim();
 

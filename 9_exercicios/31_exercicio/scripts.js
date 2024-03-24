@@ -1,15 +1,14 @@
-let nomes = ["Anderson", "Thiago", "Jefferson", "Gabriel", "Brunno", "Otávio"];
+let idade = [35, 25, 15, 5, 3, 30];
 
-let idade = [33, 30, 35,];
+let names = ["Anderson", "Otávio", "Priscila"];
 
-function verificacao(arr) {
-    if (arr.length >= 5) {
-        console.log("Muitos Elementos");
-    } else if (arr.length < 5){
-        console.log("Poucos elementos");
+function verificarElementos (arr) {
+    if(arr.length >= 5) {
+        console.log("Ess array tem muitos elementos.")
+    } else {
+        console.log("Esse array tem poucos elementos")
     }
-};
+}
 
-verificacao(nomes);
-
-verificacao(idade);
+verificarElementos(names);
+verificarElementos(idade);

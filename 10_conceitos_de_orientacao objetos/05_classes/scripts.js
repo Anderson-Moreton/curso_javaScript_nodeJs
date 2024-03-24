@@ -6,13 +6,15 @@ let cachorro = {
   }
 }
 
-let labrador = Object.create(cachorro);
+let beagles = Object.create(cachorro);
 
-labrador.latir();
+cachorro.raca = "Beagles";
 
-labrador.raca = "Labrador";
+console.log(cachorro);
 
-console.log(labrador.raca);
+beagles.latir();
+
+console.log(beagles.raca);
 console.log(cachorro.raca);
 
 let pastor = Object.create(cachorro);

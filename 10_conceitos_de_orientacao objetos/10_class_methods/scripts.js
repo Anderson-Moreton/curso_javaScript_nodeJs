@@ -5,7 +5,7 @@ class Cachorro {
   }
 
   latir() {
-    console.log("Au au");
+    console.log("Au au au au");
   }
 
 }

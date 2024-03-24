@@ -1,8 +1,8 @@
 let pessoa = {
-  "nome": "Matheus",
-  "idade": 28,
+  "nome": "Anderson",
+  "idade": 35,
   "profissao": "Programador",
-  "hobbies": ["Video game", "Leitura", "Correr"]
+  "hobbies": ["Video game", "Football", "Estudar"]
 }
 
 let pessoaTexto = JSON.stringify(pessoa);

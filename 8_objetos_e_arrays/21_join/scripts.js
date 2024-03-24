@@ -1,4 +1,4 @@
-let frase = "Testando o método split";
+let frase = "Testando o método join";
 
 let palavras = frase.split(" ");
 

@@ -1,6 +1,5 @@
-let nomes = ["Anderson", "Otávio"];
+let nome = ["Anderson", "Otávio"];
+let numeros = [35, 3, 26, 8];
 
-let idade =[33,12,1,35];
-
-console.log(nomes.length);
-console.log(idade.length);
+console.log(nome.length);
+console.log(numeros.length);

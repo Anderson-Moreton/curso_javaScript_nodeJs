@@ -1,9 +1,9 @@
-let carro = {
-    "portas": 4,
-    "cor": "Branco",
-    "modelo": "Brasil"
+let pessoa = {
+    "name": "Priscila",
+    "name1": "Anderson",
+    "name2": "Otávio"
 }
 
-console.log(carro.portas);
-console.log(carro.cor);
-console.log(carro.modelo);
+console.log(pessoa.name);
+console.log(pessoa.name1);
+console.log(pessoa.name2); 

@@ -1,6 +1,5 @@
-let num = [33, 38, 39, 45, 50];
+let nomes = ["Anderson", "Otávio", "Priscila", "Ganrielle", "Ana"];
 
-console.log(num[0]);
-console.log(num[2]);
-console.log(num[3]);
-
+console.log(nomes[0]);
+console.log(nomes[2]);
+console.log(nomes[3]);

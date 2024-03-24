@@ -13,4 +13,4 @@ imprimirNumeros(num,num1,num2);
 console.log('pausa');
 imprimirNumeros(num2,num3);
 console.log('pausa');
-imprimirNumeros(2,6,7,8,9,5,3,2,5,6,2,4,5);
+imprimirNumeros(2,6,7,8,9,5,3,2,5,6,2,4,5,8);

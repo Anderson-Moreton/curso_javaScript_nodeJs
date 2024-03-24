@@ -9,8 +9,10 @@ function criaCachorro(raca, patas, cor) {
   return cachorro;
 }
 
-let doberman = criaCachorro('Doberman', 4, 'preta');
+let beagles = criaCachorro('Beagles', 4, 'Preto, Branco e Castanho');
 
-console.log(doberman);
+console.log(beagles);
 
-doberman.latir();
+console.log(beagles.cor);
+
+beagles.latir();

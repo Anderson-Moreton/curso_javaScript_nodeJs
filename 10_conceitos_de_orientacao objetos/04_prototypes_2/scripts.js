@@ -1,5 +1,5 @@
 const pessoa = {
-  maos: 2,
+  pes: 2,
 }
 
 // console.log(Object.getPrototypeOf(pessoa));
@@ -9,8 +9,8 @@ const pessoa = {
 
 const pessoaNova = Object.create(pessoa);
 
-console.log(pessoaNova.maos);
+console.log(pessoaNova.pes);
 
-console.log(pessoaNova.hasOwnProperty('maos'));
+console.log(pessoaNova.hasOwnProperty('pes'));
 
 console.log(Object.getPrototypeOf(pessoaNova) === pessoa);

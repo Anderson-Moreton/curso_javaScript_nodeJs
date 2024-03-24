@@ -1,7 +1,7 @@
 const cachorro = {
   raca: 'SRD',
   uivar: function() {
-    console.log("Auuuuuuuuuuuu");
+    console.log("Au au au au");
   },
   rosnar: function() {
     console.log("grrrrr");

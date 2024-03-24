@@ -15,7 +15,7 @@ class Cachorro extends Mamifero {
   }
 
   latir() {
-    console.log("Au au");
+    console.log("Au au au au au");
   }
 }
 

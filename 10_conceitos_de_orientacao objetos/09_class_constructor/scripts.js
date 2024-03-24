@@ -6,6 +6,6 @@ class Cachorro {
   }
 }
 
-let labrador = new Cachorro('Labrador', 4, 'Amarelo');
+let pitbull = new Cachorro('PitBull', 4, 'Pardo');
 
-console.log(labrador);
+console.log(pitbull);

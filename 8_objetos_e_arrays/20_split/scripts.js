@@ -6,6 +6,6 @@ let palavras = frase.split(" ");
 
 console.log(palavras);
 
-let produtos = "Banana;Maçã;Jaca;Pera;Bola;Tapete";
+let produtos = "Banana;Maçã;Jaca;Pera;Bola;Camiseta";
 
 console.log(produtos.split(';'));

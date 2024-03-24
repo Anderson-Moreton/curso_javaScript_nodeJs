@@ -1,6 +1,6 @@
-let numeros = [2,4,5,8];
+let nomes = ["Anderson", "Otávio", "Prisicila", "Ana"];
 
-let [num1, num2, num3, num4] = numeros;
+let [nome1, nome2, nome3, nome4] = nomes;
 
-console.log(num1);
-console.log(num3);
+console.log(nome1);
+console.log(nome3);

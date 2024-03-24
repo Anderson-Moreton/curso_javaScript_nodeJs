@@ -1,7 +1,6 @@
-let nomes = ["Gabriel", "Brunno", "Thiago", "Anderson", "Jefferson"];
+let nomes = ["Otávio", "GAbrielle", "Anderson", "Priscila", "Thiago"];
 
-if (nomes.includes("Anderson")) {
-    console.log(`O nome: ${nomes} existe nesse array!`);
-} else {
-    console.log("Não existe esse nome no nosso array!");
+if(nomes.includes("Anderson")) {
+    console.log(`Olá Anderson, tudo bem com você?`)
 }
+

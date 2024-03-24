@@ -1,12 +1,12 @@
 let onibus = {
     rodas: 8,
-    passageiros: 40,
+    limiteDePassageiros: 40,
     portas: 2
 };
 
 delete onibus.rodas;
 
-cosnolelog(onibus.rodas);
+console.log(onibus.rodas);
 
 onibus.janelas = 20;
 
