@@ -1,6 +1,7 @@
 let a = 1;
 let b = 2;
 let c = 3;
+let d = 4;
 
 if(c > a) {
   a = b;
@@ -25,3 +26,4 @@ console.log(a);
 a = a * b;
 
 console.log(a);
+console.log(d);

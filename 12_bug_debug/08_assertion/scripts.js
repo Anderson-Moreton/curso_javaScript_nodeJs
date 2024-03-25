@@ -3,7 +3,7 @@ let arr2 = [2,3,4];
 
 function iterarArray(arr) {
   if(arr.length == 0) {
-    throw new Error("O array precisa ter pelo menos um elemento");
+    throw new Error("O array precisa ter um elemento");
   } else {
     for(let i = 0; i < arr.length; i++) {
       console.log(i);

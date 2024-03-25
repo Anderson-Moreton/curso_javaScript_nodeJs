@@ -8,7 +8,7 @@ function checarNumero(num) {
 }
 
 checarNumero(5);
-checarNumero('sadh');
+checarNumero('Anderson Moreton');
 
 let number = prompt("Digite um número");
 

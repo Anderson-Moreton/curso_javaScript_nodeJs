@@ -10,7 +10,7 @@ try {
 
 } finally {
 
-  console.log("Executou");
+  console.log("Código executado");
 
 }
 

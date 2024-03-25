@@ -6,7 +6,7 @@ let opa = 'teste';
 
 function teste() {
   "use strict"
-  let testando = 'teste';
+  let testando = 'testando';
 }
 
 teste();
