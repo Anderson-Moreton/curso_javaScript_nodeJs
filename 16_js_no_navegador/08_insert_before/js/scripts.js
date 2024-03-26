@@ -8,5 +8,7 @@ let elementoPai = document.querySelector("#container-principal");
 
 elementoPai.insertBefore(novoElemento, elementoAlvo);
 
+console.log(document.querySelector('.itens-verdes'));
+
 
 

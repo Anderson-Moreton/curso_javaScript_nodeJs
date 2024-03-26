@@ -15,3 +15,5 @@ for(i = 0; i < 5; i++) {
 let container = document.getElementById('container-principal');
 
 container.appendChild(lista);
+
+console.log(document.querySelector(".itens-verdes"));

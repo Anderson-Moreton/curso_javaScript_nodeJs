@@ -5,3 +5,5 @@ console.log('altura: ' + elemento.offsetHeight);
 
 console.log('largura: ' + elemento.clientWidth); // não considera as bordas
 console.log('altura: ' + elemento.clientHeight);
+
+console.log(document.querySelector('itens-verdes'));

@@ -7,3 +7,5 @@ let heading = document.querySelector('#titulo-principal');
 let paiHeading = heading.parentNode;
 
 paiHeading.replaceChild(novoElemento, heading);
+
+console.log(document.getElementsByClassName('itens-verdes'));

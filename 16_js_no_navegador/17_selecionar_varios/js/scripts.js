@@ -9,3 +9,5 @@ console.log(itens[0].style.color);
 let itens2 = document.querySelectorAll('.itens-azuis');
 
 console.log(itens2);
+
+console.log(document.querySelectorAll('.itens-verdes'));
