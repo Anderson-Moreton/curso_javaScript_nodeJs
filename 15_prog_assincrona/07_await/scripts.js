@@ -2,7 +2,7 @@ function somaComDelay(a,b) {
   return new Promise(resolve => {
     setTimeout(function() {
       resolve(a+b);
-    }, 4000);
+    }, 3000);
   })
 }
 

@@ -1,5 +1,5 @@
 function* criadorId() {
-  let id = 0;
+  let id = 10;
   while(true) {
     yield id++;
   }

@@ -3,7 +3,7 @@ function verificarNumero(num) {
     if(num == 2) {
       resolve(console.log(`O numero é ${num}`));
     } else {
-      reject(new Error("Falhou"));
+      reject(new Error("Código Falhou"));
     }
   });
 }
