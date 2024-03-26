@@ -1,4 +1,4 @@
-const reg1 = /[12345]/;
+const reg1 = /[123456]/;
 
 console.log(reg1.test("Temos o número 6"));
 console.log(reg1.test("Temos o número 2"));

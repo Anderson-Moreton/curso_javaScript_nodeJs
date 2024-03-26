@@ -1,13 +1,13 @@
-const reg1 = new RegExp('bola');
+const reg1 = new RegExp('café');
 
-console.log(reg1.test("Tem bola?"));
+console.log(reg1.test("Tem café?"));
 console.log(reg1.test("Não tem"));
 
-const reg2 = /bola/;
+const reg2 = /café/;
 
-let text = 'Tem bola na cesta';
+let text = 'Tem café na cesta';
 
-console.log(reg2.test("Tem bola?"));
+console.log(reg2.test("Tem café?"));
 console.log(reg2.test("Não tem"));
 console.log(reg2.test(text));
 

@@ -1,6 +1,7 @@
-const validarId = /\d+ID\b/;
+const regId = /\d+ID\b/;
 
-console.log(validarId.test("384512541ID"));
-console.log(validarId.test("384512541"));
-console.log(validarId.test("Anderson"));
-console.log(validarId.test("AndersonID"));
+console.log(regId.test("536237ID"));
+console.log(regId.test("536237"));
+console.log(regId.test("olaMundo"));
+console.log(regId.test("ID"));
+console.log(regId.test("5362ID"));
