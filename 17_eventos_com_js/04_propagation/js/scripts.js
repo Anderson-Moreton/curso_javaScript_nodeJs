@@ -3,7 +3,7 @@ let btn2 = document.querySelector("#btn2");
 let p = document.querySelector("p");
 
 function msg(e){
-  console.log("Clicou no button");
+  console.log("Clicou no button!");
   e.stopPropagation();
 }
 
@@ -14,5 +14,5 @@ btn2.addEventListener("click", function(event) {
 });
 
 p.addEventListener("click", function() {
-  console.log("clicou no paragrafo");
+  console.log("clicou no paragrafo!");
 });

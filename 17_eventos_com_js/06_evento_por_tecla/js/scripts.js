@@ -1,7 +1,7 @@
 window.addEventListener("keydown", function(e) {
 
-  if(e.key == 'q') {
-    console.log("Apertou a letra q");
+  if(e.key == 'a') {
+    console.log("Apertou a letra a");
   }
 
 });

@@ -6,3 +6,7 @@ window.addEventListener("mousemove", function(e) {
     console.log(e.x);
   }, 500);
 });
+
+let a = "anderson Moreton";
+
+consolelog(a);
