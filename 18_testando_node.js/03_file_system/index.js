@@ -8,7 +8,7 @@ readFile("arquivo.txt", "utf8", (error, texto) => {
   }
 });
 
-writeFile("arquivo.txt", "Texto por write file", (error) => {
+writeFile("arquivo.txt", "Texto enviado por white file.", (error) => {
 
   if(error) {
     throw error;
@@ -17,3 +17,5 @@ writeFile("arquivo.txt", "Texto por write file", (error) => {
   }
 
 });
+
+console.log("Anderson Moreton");

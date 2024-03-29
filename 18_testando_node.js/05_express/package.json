@@ -1,15 +1,14 @@
 {
   "name": "05_express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aula de Express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "João <matheusbudkewiczbattisti@gmail.com> (http://www.horadecodar.com.br/)",
-  "license": "MIT",
+  "author": "Anderson Moreton",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.19.2"
   }
 }

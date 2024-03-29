@@ -1,14 +1,14 @@
 {
   "name": "02_iniciando_projeto",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aula de nome.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "João <matheusbudkewiczbattisti@gmail.com> (http://www.horadecodar.com.br/)",
-  "license": "MIT",
+  "author": "Anderson Moreton",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.19.2"
   }
 }
