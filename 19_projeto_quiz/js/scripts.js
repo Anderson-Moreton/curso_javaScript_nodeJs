@@ -72,6 +72,27 @@ const questions = [
       },
     ]
   },
+  {
+    "question": "Qual o seletor de class no CSS?",
+    "answers": [
+      {
+        "answer": "#",
+        "correct": false
+      },
+      {
+        "answer": ".",
+        "correct": true
+      },
+      {
+        "answer": "@",
+        "correct": false
+      },
+      {
+        "answer": "/",
+        "correct": false
+      },
+    ]
+  },
 ]
 
 // Substituição do quizz para a primeria pergunta
@@ -224,5 +245,5 @@ restartBtn.addEventListener("click", function() {
 
 });
 
-// Inicialização do Quizz
+// Iniciar o Quizz.
 init();
