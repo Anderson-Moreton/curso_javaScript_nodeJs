@@ -14,4 +14,6 @@ if(b > 10) {
     console.log(a);
 }
 
-const nome = "Anderson";
+const nome = "Anderson Moreton";
+
+console.log(nome);

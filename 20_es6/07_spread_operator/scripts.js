@@ -8,8 +8,8 @@ const a4 = [0, ...a1, 4]
 
 console.log(a4);
 
-const carName = { name: 'Gol' }
-const carBrand = { brand: 'VW' }
+const carName = { name: 'Celta' }
+const carBrand = { brand: 'GM' }
 const otherInfos = { km: 120000, price: 49000 }
 
 const car = { ...carName, ...carBrand, ...otherInfos }

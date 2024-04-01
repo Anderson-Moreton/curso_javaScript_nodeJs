@@ -15,6 +15,7 @@ const users = [
     { name: 'Priscila', available: false },
     { name: 'Otávio', available : true },
     { name: 'Sueli', available: false },
+    { name: 'Alice', available: true },
 ]
 
 const availableUsers = users.filter((user) => user.available)

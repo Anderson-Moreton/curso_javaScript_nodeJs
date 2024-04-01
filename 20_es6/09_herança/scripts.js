@@ -9,12 +9,14 @@ class Product {
     }
 }
 
-const shirt = new Product('Camisa do Palmeiras' , 249)
+const camisa = new Product('Camisa da Puma' , 249)
 
-console.log(shirt.name)
+console.log(camisa.name)
 console.log(shirt.productDiscount(10))
 console.log(shirt.productDiscount(50))
 
+
+//Herança
 class ProductWithAttributes extends Product {
     constructor(name, price, colors) {
         super(name, price)

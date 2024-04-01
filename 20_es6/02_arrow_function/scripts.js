@@ -15,11 +15,11 @@ const greeting = (name)=> {
     }
 }
 
-console.log(greeting("Anderson"));
+console.log(greeting("Anderson Moreton"));
 console.log(greeting());
 
 const user = {
-    name: "Anderson",
+    name: "Anderson Moreton",
     sayUserName() {
         var self = this
         setTimeout(function () {

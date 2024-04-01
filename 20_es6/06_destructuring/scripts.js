@@ -7,8 +7,8 @@ console.log(f2);
 console.log(f3);
 
 const productDetails = {
-    name: 'Mouse',
-    price: 39.99,
+    name: 'Monitor',
+    price: 139.99,
     category: 'Periféricos',
     color: 'Preto',
 }
